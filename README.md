@@ -66,3 +66,13 @@ npm install
 ```bash
 npm test
 ```
+
+Share ZIP File to HR Once Task Completed
+
+NOTE: Code should be up to the mark.
+
+What we will check?
+- given functionality should be work as per the requirement
+- Code structure
+- Code optimization
+- Reusable component
